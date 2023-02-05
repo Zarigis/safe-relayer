@@ -1,0 +1,7 @@
+export RPC_URL=https://polygon-rpc.com
+export DEPLOYER_KEY=
+export ETHERSCAN_KEY=
+export OPERATOR=0xa68444587ea4D3460BBc11d5aeBc1c817518d648
+export GAS_PRICE=200
+export CONTRACT_NAME=
+export CHAIN_NAME=polygon
