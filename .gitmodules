@@ -7,3 +7,6 @@
 [submodule "lib/relay-context-contracts"]
 	path = lib/relay-context-contracts
 	url = https://github.com/gelatodigital/relay-context-contracts
+[submodule "lib/safe-contracts"]
+	path = lib/safe-contracts
+	url = https://github.com/safe-global/safe-contracts
